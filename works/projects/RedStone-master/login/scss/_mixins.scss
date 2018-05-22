@@ -1,0 +1,14 @@
+@mixin flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin h1 {
+    color: $black;
+    letter-spacing: 2px;
+    font-size: 24px;
+    font-family: sans-serif;
+    font-weight: bold;
+}

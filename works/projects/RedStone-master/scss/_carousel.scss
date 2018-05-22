@@ -1,0 +1,98 @@
+.carousel-wrapper{
+    background-image: url('../images/patch.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 35em;;
+    position: relative;
+    img{
+        max-width: 150px
+    }
+}
+
+.carousel{
+    padding-top: 8em;
+    padding-bottom: 2em;
+    padding-left: 3em;
+}
+
+.patches{
+    font-size: 1.5em;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 2em;
+}
+.patches span{
+padding: 0 0.5em;
+}
+
+
+.text{
+    display: -ms-grid;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    .item{
+        position: relative;
+        display: flex;
+        justify-content: center;
+        padding: 0.1em 1em;
+        flex-direction: column;
+        text-align: left;
+        height: 5em;
+        h4{
+            font-size: 1.7em;
+            font-weight: 700;
+            color: $black
+        }
+        p{
+            font-family: 'regular',sans-serif;
+            font-weight: 100;
+            font-size: 1.1em;
+            color: $dark-grey;
+        }
+        a{
+        display: block;
+        width: 170px;
+        margin: 0 auto;
+        margin-top: 1em;
+        background-color: white;
+        color: $black;
+        padding: 0.5em;
+        text-align: left;
+        font-size: 1.1em;
+        font-weight: 100;
+        margin-bottom: 1.5em;
+        }
+    }
+    .item2{
+        align-items: flex-end
+    }
+    
+}
+
+@media screen and (max-width:1160px){
+    .carousel{
+        padding-left: 12%;
+    }
+}
+@media screen and (max-width:800px){
+    .text{
+        grid-template-columns: 1fr;
+        text-align: center
+    }
+    .text .item{
+        align-items: center;
+        text-align: center
+    }
+}
+@media screen and (max-width:720px){
+    .carousel{
+        padding-left: 7%;
+        padding-top: 6em;
+    }
+}
+
+@media screen and (max-width:500px){
+    .carousel{
+        padding-left: 32%;
+    }
+}

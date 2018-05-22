@@ -1,0 +1,56 @@
+.about{
+    background-color: $white;
+    min-height: 25vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+    
+    span{
+        font-size: 2em;
+        color: $yellow;
+        display: block;
+        padding-top: 0.5em;
+    }
+    h3{
+        color: $black;
+        font-size: 2.5em;
+        font-weight: 600;
+        padding-top: 0.7em;
+        padding-bottom: 0.3em;
+    }
+    p{
+        font-size: 1em;
+        font-family: 'regular',sans-serif;
+        color: $dark-grey;
+        padding: 0 25%;
+        text-align: center;
+        line-height: 1.5em;
+    }
+}
+
+@media only screen and (max-width:860px){
+    .about{
+        p{
+            padding: 0 5%;
+            padding-bottom: 0.5em;
+            text-align: center
+        }
+        h3{
+            padding-top: 0em;
+            text-align: center
+        }
+    }
+}
+@media only screen and (max-width:450px){
+    .about{
+        p{
+            padding: 0 0.2em;
+            padding-bottom: 0.5em;
+        }
+        h3{
+            font-size: 1.5em;
+        }
+    }
+}

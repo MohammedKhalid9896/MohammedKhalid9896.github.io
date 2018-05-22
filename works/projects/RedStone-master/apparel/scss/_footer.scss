@@ -1,0 +1,119 @@
+#myFooter {
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    
+    .row {
+    margin: 0 85px;
+    }
+    
+.footer-copyright {
+    background-color: black;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 12px;
+        
+    p {
+    margin: 10px;
+    color: #6a6a6a;    
+    display: inline-block;
+    margin-left: 130px;
+
+    }
+        
+    h6 {
+    text-align: right;
+    float: right;
+    clear: both;
+    margin: 10px;
+    color: #6a6a6a;  
+    margin-right: 132px;
+    }
+        
+    div {
+    height: 1px;
+    width: 80%;
+    margin: auto;
+    background-color: #6a6a6a;
+    }
+}
+    
+.container {
+    width: auto;
+}
+        
+ul {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+}
+    
+h5 {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #aaa;
+}
+
+ a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}    
+    
+a:hover,
+a:focus {
+    text-decoration: none;
+    color: white;
+}
+    
+.social-networks {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 38px;
+}
+
+.social {
+    display: inline-block;
+    padding: 5px;
+    margin: 2px;
+    background-color: #262626;
+}    
+    
+.s {
+    padding: 2px;
+    font-size: 18px;
+    background-color: #262626;
+    margin: 5px;
+    background-size: 100px;
+}
+
+.hvr {
+    transition: $transition;
+    &:hover {
+        .fa-angle-right {
+            margin-left: 15px;
+        }
+    }
+    }    
+    
+.fa-angle-right {
+    color:  #f9c606;
+    margin-left: 8px;
+    position: relative;
+    transition: $transition;
+}
+    
+    
+input {
+    background-color: #262626;
+    border-color: #262626;
+    padding: 5px;
+    margin: 10px 0;
+} 
+            
+}
+
+

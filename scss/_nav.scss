@@ -1,0 +1,19 @@
+
+.navbar {
+    display: none;
+}
+
+.bg-light {
+    background-color: $ground-color !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    &:hover {
+        color: white;
+    }
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}

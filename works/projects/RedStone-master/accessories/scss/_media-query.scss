@@ -1,0 +1,109 @@
+
+// === small devices === //
+
+@media only screen and (max-width: 47em){
+    
+    
+        #myFooter {
+        text-align: center;
+         .row {
+        margin: 0;
+    }
+
+       .nav > li > a,
+       .navbar-brand {
+       padding: 15px 9.5px;
+    
+    }
+
+        
+    .s {
+    padding: 2px;
+    font-size: 15px;
+    background-color: #262626;
+    margin: 0px;
+    background-size: 50px;
+}
+
+     
+}
+    
+    .nav-btn{
+        display: block;
+    }
+    .nav-item{
+        display: none
+    }
+    .nav-tools{
+        display: block
+    }
+    .tool1{
+        display: none
+    }
+    .logo p{
+        display: none
+    }
+    .nav-wrapper ul{
+        padding-top: 1.2em;
+    }
+    
+    #shop-patches {
+    
+        .ground {
+            height: 300px;
+    }        
+        
+         .h-shop {
+            height: 300px; 
+            padding: 20px;
+             
+         .m-top {
+            margin-top: 20px;
+        }
+             
+        h1 {
+            color: white;
+            font-size: 22px;
+        }
+        p {
+            font-size: 14px;
+            
+        }             
+       
+    }
+   
+}
+#patches {
+    padding: 30px;
+    .col-lg-3 {
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+    
+}
+}
+
+@media screen and (max-width:340px){
+    .logo{
+        left: 30%;
+    }
+}
+
+
+@media only screen and (max-width:960px){
+      .footer{
+          grid-template-columns: 1fr;
+      }
+          .footer-copyright {  
+              text-align: center;
+        p {
+        margin: 10px;
+        color: #6a6a6a;        
+        text-align: center;    
+    }    
+        
+    h6 {
+        display: none;
+    }
+}
+  }

@@ -1,0 +1,139 @@
+#shop-patches {
+    background-image: url(../images/Header_Accessories_1440x.jpg);
+    background-size: cover;
+    .ground {
+        background-color: rgba(0,0,0,0.5);
+        height: 350px;
+        position: relative;
+    }
+    .h-shop {
+        padding: 45px;
+        position: absolute;
+        height: 350px;
+        
+        .m-top {
+            margin-top: 50px;
+        }
+        h1 {
+            color: white;
+            padding: 10px;
+            font-size: 25px;
+            font-weight: bold;
+        }
+        p {
+            color: white;
+            padding: 5px;
+        }
+        button {
+            background-color: #313131;
+            border-color: #313131;
+            border-radius: 0;
+            margin-top: 5px;
+            transition: $transition;
+            &:hover{
+                background-color: black;
+                border-color: black;
+                .fa-angle-right {
+                    margin-left: 15px;
+                }
+            }
+        }
+        .fa-angle-right {
+            transition: $transition;
+        }
+    }
+    
+}
+
+#filter {
+    background-image: url(../images/texture-white.svg);
+    background-size: contain;
+    background-size: 30px;
+    .filters {
+        padding: 50px;
+    select {
+        background-color: white;
+        border-color: #f4f6f1;
+        padding: 10px;
+        font-family: "karla";
+    }
+    
+    .filter-1 {
+        float: left;    
+    }    
+        
+    .filter-2 {
+             float: right;   
+    }    
+  }
+}
+
+#patches {
+    padding: 80px;    
+    h1 {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: "karla";
+    }
+    
+    .card {
+        width: 14rem !important;
+        height: 300px;
+        border-color: white;
+        padding: 15px;
+    }
+    .thumb {
+        display: table;
+        margin: auto;
+        margin-bottom: 30px;
+        transition: all 0.9s ease;
+        &:hover {
+            transform: scale(1.1);
+            cursor: pointer;
+        }
+        
+    img {
+            width: 170px;
+            margin: auto;
+        }
+    }
+    
+    .card-img-top {
+    }
+}
+
+#contact {
+    background-image: url(../images/patch-texture.jpg);
+    height: 350px;
+         
+    .content {
+        position: relative;
+        top: 120px;
+        h1 {
+            padding: 10px;
+            color: white;
+            font-size: 30px;
+            font-weight: bold;
+        }
+        .btn {
+            border-radius: 0;
+            background-color: white;
+            border-color: white;
+            color: $black;
+            font-weight: bold;
+            padding: 5 10px;
+            font-size: 16;
+            font-family: sans-serif;
+            &:hover {
+                .fa-angle-right {
+                    margin-left: 15px;
+                }
+                
+                .fa-angle-right {
+                    transition: $transition;
+                }
+            }
+            
+        }
+    }
+}

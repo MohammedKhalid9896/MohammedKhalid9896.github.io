@@ -1,0 +1,35 @@
+.hero{
+    background-image: url('../images/hero.jpg');
+    background-size: cover;
+    background-position: bottom;
+    height: 45em;
+    @include flex;
+}
+.hero .item{
+    text-align: center;
+}
+
+.hero h2{
+    font-size: 2.5em;
+    color: white;
+    font-weight: 600;
+}
+.hero a{
+    display: block;
+    width: 120px;
+    margin: 0 auto;
+    margin-top: 1em;
+    background-color: white;
+    color: $black;
+    padding: 0.5em;
+    text-align: left;
+    font-size: 1.2em;
+    font-weight: 600
+}
+.arrow{
+    color: $yellow-arrow;
+    transition: all 0.3s ease
+}
+ a:hover .arrow{
+    margin-left: 5px
+}

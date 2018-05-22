@@ -1,0 +1,14 @@
+@mixin h1 {
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+@mixin i {
+    font-size: 1.5em;
+    color: white;
+    display: table;
+    margin: auto;
+    margin-top: 20px;
+    cursor: pointer;
+}

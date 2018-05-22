@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    
+    <title>Apparel &ndash; Larkshead Apparel</title>
+    
+    
+    
+    
+    <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, user-scalable=no" />
+
+    
+	<meta property="og:image" content="http://cdn.shopify.com/s/files/1/2258/7373/t/3/assets/og-default.jpg?3581195939427218665" />
+	<meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/2258/7373/t/3/assets/og-default.jpg?3581195939427218665" />
+	<meta property="og:title" content="Apparel" />
+	<meta property="og:type" content="website" />
+
+
+
+<meta property="og:url" content="https://larkshead.com/collections/apparel" />
+<meta property="og:site_name" content="Larkshead Apparel" />
+	
+      
+    <link rel="canonical" href="https://larkshead.com/collections/apparel" />
+    <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/2258/7373/t/3/assets/favicon.png?3581195939427218665" type="image/png" />
+    
+    <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/22587373/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="c030c7f71e33c46a1d5ee92e4ed63b0c">
+<link rel="alternate" type="application/json+oembed" href="https://larkshead.com/collections/apparel.oembed">
+<link rel="alternate" type="application/atom+xml" title="Feed" href="/collections/apparel.atom" />
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--google-pay{line-height:0 !important;padding:0 !important;border-radius:unset !important;width:80px !important}@media (max-width: 500px){.additional-checkout-button--google-pay{width:100% !important}}.gpay-iframe{height:44px !important;width:100%  !important;cursor:pointer;vertical-align:middle !important}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--paypal{vertical-align:top;line-height:0 !important;padding:0 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<style>.shopify-payment-button__button--hidden {
+  visibility: hidden;
+}
+
+.shopify-payment-button__button {
+  border-radius: 4px;
+  border: none;
+  box-shadow: 0 0 0 0 transparent;
+  color: white;
+  cursor: pointer;
+  display: block;
+  font-size: 1em;
+  font-weight: 500;
+  line-height: 1;
+  text-align: center;
+  width: 100%;
+  transition: background 0.2s ease-in-out;
+}
+
+.shopify-payment-button__button[disabled] {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.shopify-payment-button__button--unbranded {
+  background-color: #1990c6;
+  padding: 1em 2em;
+}
+
+.shopify-payment-button__button--unbranded:hover:not([disabled]) {
+  background-color: #136f99;
+}
+
+.shopify-payment-button__more-options {
+  background: transparent;
+  border: 0 none;
+  cursor: pointer;
+  display: block;
+  font-size: 1em;
+  margin-top: 1em;
+  text-align: center;
+  width: 100%;
+}
+
+.shopify-payment-button__more-options:hover:not([disabled]) {
+  text-decoration: underline;
+}
+
+.shopify-payment-button__more-options[disabled] {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.shopify-payment-button__button--branded {
+  display: flex;
+  flex-direction: column;
+  min-height: 44px;
+  position: relative;
+  z-index: 1;
+}
+
+.shopify-payment-button__button--branded .shopify-cleanslate {
+  flex: 1 !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+</style>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":22587373,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/22587373","merchantName":"Larkshead Apparel","requiredBillingContactFields":["postalAddress","email"],"requiredShippingContactFields":["postalAddress","email"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover"],"total":{"type":"pending","label":"Larkshead Apparel","amount":"1.00"}}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"c030c7f71e33c46a1d5ee92e4ed63b0c","betas":["smart-payment-buttons"],"domain":"larkshead.com","shopId":22587373,"smart_payment_buttons_url":"https:\/\/cdn.shopifycloud.com\/payment-sheet\/assets\/latest\/spb.js"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "larkshead-apparel.myshopify.com";
+Shopify.theme = {"name":"Larkshead v1.1","id":10969579556,"theme_store_id":796,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+</script>
+<script id="__st">var __st={"a":22587373,"offset":-14400,"reqid":"837485d1-39e1-4b5b-a501-cf357ad452b1","pageurl":"larkshead.com\/collections\/apparel","u":"d7819267f65f","p":"collection","rtyp":"collection","rid":2544861202};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>window.Shopify = window.Shopify || {};
+window.Shopify.Checkout = window.Shopify.Checkout || {};
+window.Shopify.Checkout.apiHost = "larkshead-apparel.myshopify.com";
+window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.acceleratedFlowIncontext = false;
+window.ShopifyPay.apiHost = "pay.shopify.com";
+window.ShopifyPay.apiToken = "bFArV01nR3pvbFpacDMwZ3NIRzVkNW8xQXVVSHVjdTQrMFFRV0prdFVRaz0tLVJzR2NtYXdDMlB5em5CL2haNFYxOFE9PQ==--f6c1a95bbdf11a2f1e1af00f7bcfa17619831e5e";
+window.ShopifyPay.requestHost = "larkshead.com"
+window.ShopifyPay.sheetStyleSheetUrl = "\/\/cdn.shopify.com\/s\/assets\/shared\/sheet\/main-c150bd783aa9b2c6b0c41ded3880c45a0848a9914354d4222628be6c924200a3.css";
+</script>
+<script>window['GoogleAnalyticsObject'] = 'ga';
+window['ga'] = window['ga'] || function() {
+  (window['ga'].q = window['ga'].q || []).push(arguments);
+};
+window['ga'].l = 1 * new Date();
+</script>
+<script>var _gaUTrackerOptions = {'allowLinker': true};ga('create', 'UA-114164872-1', 'auto', _gaUTrackerOptions);ga('send', 'pageview');
+      (function(){
+        ga('require', 'linker');
+        function addListener(element, type, callback) {
+          if (element.addEventListener) {
+            element.addEventListener(type, callback);
+          }
+          else if (element.attachEvent) {
+            element.attachEvent('on' + type, callback);
+          }
+        }
+        function decorate(event) {
+          event = event || window.event;
+          var target = event.target || event.srcElement;
+          if (target && (target.action || target.href)) {
+            ga(function (tracker) {
+              var linkerParam = tracker.get('linkerParam');
+              document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+            });
+          }
+        }
+        addListener(window, 'load', function(){
+          for (var i=0; i<document.forms.length; i++) {
+            if(document.forms[i].action && document.forms[i].action.indexOf('/cart') >= 0) {
+              addListener(document.forms[i], 'submit', decorate);
+            }
+          }
+          for (var i=0; i<document.links.length; i++) {
+            if(document.links[i].href && document.links[i].href.indexOf('/checkout') >= 0) {
+              addListener(document.links[i], 'click', decorate);
+            }
+          }
+        })
+      }());
+    </script>
+<script>
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+      var meta = {"page":{"pageType":"collection","resourceType":"collection","resourceId":2544861202}};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    </script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">
+
+
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config;
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+    var first = document.getElementsByTagName('script')[0];
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":22587373,"isMerchantRequest":null,"themeId":10969579556,"themeCityHash":7587241070788036838}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":1.0},"Facebook Pixel":{"pixelIds":["568890666798060"],"agent":"plshopify1.2"},"Session Attribution":{}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"collection","resourceType":"collection","resourceId":2544861202}
+        );
+      
+    
+        window.ShopifyAnalytics.lib.track(
+          "Viewed Product Category",
+          {"category":"Collection: apparel","nonInteraction":true}
+        );
+      
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-f2c5800305098f0ebebdfa7d980c9abf56514c46d5305e97a7c476f7c9116163.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();
+</script>
+<script defer="defer" integrity="sha256-SkxrUNm9fV+2aTJ3qSX4L18pDqpYdDQu5LieSdTE9ZQ=" crossorigin="anonymous" src="//cdn.shopify.com/s/assets/storefront/express_buttons-4a4c6b50d9bd7d5fb6693277a925f82f5f290eaa5874342ee4b89e49d4c4f594.js"></script>
+<script defer="defer" integrity="sha256-2VwcaH5++f6tBn1FlAz0S70S91W72Fx5p4AyR2ay1zw=" crossorigin="anonymous" src="//cdn.shopify.com/s/assets/storefront/features-d95c1c687e7ef9fead067d45940cf44bbd12f755bbd85c79a780324766b2d73c.js"></script>
+<script async="async" src="https://www.google-analytics.com/analytics.js"></script>
+<script defer="defer" src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-68ca1924c495cfc55dac65f4853e0c9a395387ffedc8fe58e0f2e677f95d7f23.js"></script>
+
+    
+    <link href="//cdn.shopify.com/s/files/1/2258/7373/t/3/assets/style.scss.css?3581195939427218665" rel="stylesheet" type="text/css" media="all" />
+    
+    <script src="//cdn.shopify.com/s/assets/themes_support/shopify_common-040322ee69221c50a47032355f2f7e6cbae505567e2157d53dfb0a2e7701839c.js" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/2258/7373/t/3/assets/option_selection.js?3581195939427218665" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/assets/themes_support/customer_area-4beccea87758d91106a581ba89341d9b51842f6da79209258c8297239e950343.js" type="text/javascript"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js" type="text/javascript"></script>
+    
+    <script type="text/javascript">(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/pJrzHD2mAakCN9kxH0Hqv251wp5tJl6vHEIBkszC/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();</script>
+    
+</head>
+
+<body id="apparel" class="preload template-collection">
+	
+	<div id="page-wrapper">
+
+		<div id="top">
+	
+	
+	<div class="alert-bar">Free Shipping in the USA</div>
+	
+	
+	<div class="nav-wrapper">
+		
+		<header>
+		
+			<div class="menu-icon">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+			
+			<a class="logo" href="/">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="200px" height="100px" viewBox="0 0 200 100" enable-background="new 0 0 200 100" xml:space="preserve">
+<g class="mark">
+	<polygon points="80.449,15.394 76.554,18.612 76.554,46.631 104.323,46.631 107.606,42.736 80.449,42.736 	"/>
+	<polygon points="99.166,0 95.271,3.218 95.27,25.247 89.986,30.556 89.986,7.575 86.091,10.76 86.091,37.202 86.091,37.225 
+		112.52,37.225 115.804,33.33 92.717,33.33 97.537,28.48 120.164,28.48 123.445,24.583 99.166,24.583 	"/>
+</g>
+<g class="name">
+	<path fill="#231F20" d="M57.358,90.576c2.577-1.207,3.791-5.047,3.791-7.516c0-2.253-0.907-4.257-2.441-5.445
+		c-1.471-1.158-3.098-1.564-5.132-1.564h-4.568c-0.039,0-0.075,0.014-0.103,0.041l-4.155,4.156v19.407h4.162v-7.76
+		c0-0.328,0.267-0.596,0.596-0.596h2.673c0.206,0,0.396,0.105,0.505,0.279l5.051,8.076h4.538l-5.164-8.228
+		C56.922,91.125,57.036,90.727,57.358,90.576 M53.074,87.794h-3.566c-0.329,0-0.596-0.268-0.596-0.597V80.15
+		c0-0.329,0.267-0.595,0.596-0.595h3.504c2.316,0,4.069,0.845,4.069,3.474C57.081,85.344,55.484,87.794,53.074,87.794"/>
+	<path fill="#231F20" d="M27.513,76.748l-8.048,22.907h4.162l1.549-4.613c0.085-0.251,0.309-0.418,0.562-0.418h7.666
+		c0.254,0,0.48,0.17,0.563,0.425l1.49,4.606h4.35L31.82,76.75c-0.147-0.421-0.525-0.699-0.95-0.699h-2.409
+		C28.038,76.05,27.66,76.328,27.513,76.748 M31.809,90.848h-4.5c-0.409,0-0.697-0.425-0.563-0.834l2.796-8.634h0.063l2.768,8.636
+		C32.504,90.425,32.217,90.848,31.809,90.848"/>
+	<path fill="#231F20" d="M4.162,95.398V76.195c0-0.129-0.156-0.194-0.248-0.103L0,80.006v19.053c0,0.329,0.267,0.597,0.596,0.597
+		h14.426v-3.661H4.758C4.429,95.995,4.162,95.727,4.162,95.398"/>
+	<path fill="#231F20" d="M78.041,85.796l8.864-9.746h-5.07l-10.171,11.65h-0.031V76.195c0-0.129-0.157-0.194-0.248-0.103
+		l-3.915,3.915v19.647h4.163v-6.77c0-0.154,0.059-0.303,0.167-0.414l2.646-2.745c0.271-0.28,0.734-0.229,0.937,0.104l6.013,9.825
+		h5.07L77.982,86.52C77.835,86.293,77.86,85.997,78.041,85.796"/>
+	<path fill="#231F20" d="M165.269,76.748l-8.049,22.907h4.162l1.55-4.613c0.084-0.251,0.31-0.418,0.561-0.418h7.667
+		c0.254,0,0.481,0.17,0.563,0.425l1.489,4.606h4.351l-7.986-22.905c-0.147-0.421-0.526-0.699-0.95-0.699h-2.409
+		C165.793,76.05,165.416,76.328,165.269,76.748 M169.564,90.848h-4.5c-0.409,0-0.696-0.425-0.563-0.834l2.796-8.634h0.062
+		l2.77,8.636C170.26,90.425,169.972,90.848,169.564,90.848"/>
+	<path fill="#231F20" d="M191.205,76.049h-4.802c-0.039,0-0.075,0.016-0.103,0.043l-3.795,3.794v19.769h8.731
+		c4.412,0,8.763-2.941,8.763-8.23v-7.238C200,79.21,196.057,76.049,191.205,76.049 M195.869,91.674c0,3.192-2.66,4.319-4.788,4.319
+		h-3.816c-0.329,0-0.598-0.266-0.598-0.596V80.307c0-0.329,0.269-0.596,0.598-0.596h3.66c2.628,0,4.944,1.533,4.944,4.225V91.674z"
+		/>
+	<path fill="#231F20" d="M126.208,80.007v7.331c0,0.328-0.267,0.596-0.597,0.596h-7.727c-0.328,0-0.597-0.268-0.597-0.596V75.861
+		l-4.161,4.162v19.632h4.161V92.19c0-0.329,0.269-0.594,0.597-0.594h7.727c0.33,0,0.597,0.265,0.597,0.594v7.465h4.162v-23.46
+		c0-0.129-0.155-0.194-0.247-0.103L126.208,80.007z"/>
+	<path fill="#231F20" d="M98.388,85.486c-1.752-0.488-3.254-1.073-3.254-2.7c0-2.082,1.752-3.091,3.567-3.091
+		c2.16,0,3.787,0.812,4.663,2.765l3.6-1.464c-1.001-3.384-4.382-4.946-8.105-4.946c-4.319,0-7.793,2.539-7.793,6.898
+		c0,8.949,12.174,4.85,12.174,10.25c0,2.148-2.128,3.06-4.381,3.06c-2.504,0-4.538-1.27-5.383-3.515l-3.755,1.529
+		c1.158,3.938,4.913,5.728,9.013,5.728c4.912,0,8.574-2.831,8.574-7.094C107.307,86.755,101.986,86.496,98.388,85.486"/>
+	<path fill="#231F20" d="M141.386,95.398v-3.389c0-0.329,0.267-0.595,0.596-0.595h8.854c0.328,0,0.596-0.268,0.596-0.596v-2.472
+		c0-0.328-0.268-0.595-0.596-0.595h-8.854c-0.329,0-0.596-0.267-0.596-0.595v-6.851c0-0.329,0.267-0.596,0.596-0.596h10.732v-3.662
+		h-11.253c-0.038,0-0.075,0.016-0.104,0.043l-4.135,4.015v19.549h15.617v-3.661h-10.858
+		C141.652,95.995,141.386,95.727,141.386,95.398"/>
+</g>
+</svg>
+
+			</a>
+		
+		</header>
+		
+		<nav class="menu" role="navigation">
+			
+			<ul class="primary">
+			
+				
+				<li class="active">
+					<a href="/collections/apparel">Apparel</a> 
+				</li>
+				
+				<li >
+					<a href="/collections/patches">Accessories</a> 
+				</li>
+				
+				<li >
+					<a href="/blogs/journal">Journal</a> 
+				</li>
+				
+		        
+		    </ul>
+		    
+		    <ul class="secondary">
+			    
+			    
+				<li >
+					<a href="/pages/about-us">About Us</a> 
+				</li>
+				
+				
+				
+		        <li class="account">
+		        	
+			            <a href="/account/login" id="customer_login_link">Login</a>
+					
+		        </li>
+		        
+		        
+			</ul>
+			
+	    </nav>
+	    
+	    <nav class="tools">
+	    
+	    	<ul>
+				
+				
+		        <li class="account">
+		        	
+			            <a href="/account/login" id="customer_login_link">Login</a>
+					
+		        </li>
+		        
+		            
+		        <li class="cart">
+			        <a href="/cart">Cart</a>
+		        </li>
+		        
+			</ul>
+			
+	    </nav>
+		
+	</div>
+	
+	
+	<div id="cart-panel">
+		<div class="contain flex">
+			
+
+<div class="center empty-message">
+	<h4>Your cart is currently empty.</h4>
+</div>
+
+		</div>
+	</div>
+	
+		
+</div>
+
+<div id="page-overlay"></div>
+		
+		<header class="page-header collection-header texture">
+	<div class="contain center">
+		<h1>Shop Apparel</h1>
+		<ol class="process">
+			<li>Choose Your Clothing</li>
+			<li>Find Your Patch</li>
+			<li>Love Your Look</li>
+		</ol>
+	</div>
+</header>
+
+<section>
+	<div class="contain">
+		
+		
+		<div class="products-wrap">
+			
+				<a href="/products/signature-full-zip-hoodie-medieval-blue" class="product">
+
+	<div class="image-wrap">
+		<img src="//cdn.shopify.com/s/files/1/2258/7373/products/signature-full-zip-hoodie-medieval-blue_480x480.jpg?v=1518714458" alt="larkshead-signature-full-zip-hoodie">
+	</div>
+
+	<header>
+		<h2>Signature Full Zip Hoodie</h2>		
+		
+			
+		
+			
+			<span>Medieval Blue</span>
+			
+		
+	</header>
+
+</a>
+			
+				<a href="/products/signature-full-zip-hoodie-black" class="product">
+
+	<div class="image-wrap">
+		<img src="//cdn.shopify.com/s/files/1/2258/7373/products/signature-full-zip-hoodie-black_480x480.jpg?v=1518719987" alt="larkshead-signature-full-zip-hoodie">
+	</div>
+
+	<header>
+		<h2>Signature Full Zip Hoodie</h2>		
+		
+			
+		
+			
+			<span>Black</span>
+			
+		
+	</header>
+
+</a>
+			
+				<a href="/products/signature-full-zip-hoodie-heather-grey" class="product">
+
+	<div class="image-wrap">
+		<img src="//cdn.shopify.com/s/files/1/2258/7373/products/signature-full-zip-hoodie-heather-grey_480x480.jpg?v=1518720046" alt="larkshead-signature-full-zip-hoodie">
+	</div>
+
+	<header>
+		<h2>Signature Full Zip Hoodie</h2>		
+		
+			
+		
+			
+			<span>Heather Grey</span>
+			
+		
+	</header>
+
+</a>
+			
+				<a href="/products/pocketed-pullover-medieval-blue" class="product">
+
+	<div class="image-wrap">
+		<img src="//cdn.shopify.com/s/files/1/2258/7373/products/pocketed-pullover-medieval-blue_480x480.jpg?v=1518723792" alt="larkshead-pocketed-pullover">
+	</div>
+
+	<header>
+		<h2>Pocketed Pullover</h2>		
+		
+			
+		
+			
+			<span>Medieval Blue</span>
+			
+		
+	</header>
+
+</a>
+			
+				<a href="/products/pocketed-pullover-black" class="product">
+
+	<div class="image-wrap">
+		<img src="//cdn.shopify.com/s/files/1/2258/7373/products/pocketed-pullover-black_480x480.jpg?v=1518723865" alt="larkshead-pocketed-pullover">
+	</div>
+
+	<header>
+		<h2>Pocketed Pullover</h2>		
+		
+			
+		
+			
+			<span>Black</span>
+			
+		
+	</header>
+
+</a>
+			
+				<a href="/products/pocket-pullover-heather-grey" class="product">
+
+	<div class="image-wrap">
+		<img src="//cdn.shopify.com/s/files/1/2258/7373/products/pocketed-pullover-heather-grey_480x480.jpg?v=1518723823" alt="larkshead-pocketed-pullover">
+	</div>
+
+	<header>
+		<h2>Pocketed Pullover</h2>		
+		
+			
+		
+			
+			<span>Heather Grey</span>
+			
+		
+	</header>
+
+</a>
+			
+				<a href="/products/everyday-joggers-medieval-blue" class="product">
+
+	<div class="image-wrap">
+		<img src="//cdn.shopify.com/s/files/1/2258/7373/products/everyday-joggers-medieval-blue_480x480.jpg?v=1518713183" alt="Everyday Joggers">
+	</div>
+
+	<header>
+		<h2>Everyday Joggers</h2>		
+		
+			
+		
+			
+			<span>Medieval Blue</span>
+			
+		
+	</header>
+
+</a>
+			
+				<a href="/products/everyday-joggers-black" class="product">
+
+	<div class="image-wrap">
+		<img src="//cdn.shopify.com/s/files/1/2258/7373/products/everyday-joggers-black_480x480.jpg?v=1518640284" alt="Everyday Joggers">
+	</div>
+
+	<header>
+		<h2>Everyday Joggers</h2>		
+		
+			
+		
+			
+			<span>Black</span>
+			
+		
+	</header>
+
+</a>
+			
+				<a href="/products/everyday-joggers-heather-grey" class="product">
+
+	<div class="image-wrap">
+		<img src="//cdn.shopify.com/s/files/1/2258/7373/products/everyday-joggers-heather-grey_480x480.jpg?v=1518713365" alt="larkshead-everyday-jogger-heather-grey">
+	</div>
+
+	<header>
+		<h2>Everyday Joggers</h2>		
+		
+			
+		
+			
+			<span>Heather Grey</span>
+			
+		
+	</header>
+
+</a>
+			
+		</div>
+		
+		
+		<div class="upsell-accessories">
+	<header>
+		<h3>Customize Your Apparel</h3>
+		<div class="carousel">
+			<ul>
+				
+					
+					
+					
+					<li class="product" data-img="//cdn.shopify.com/s/files/1/2258/7373/products/YourCustomPatch_150x.jpg?v=1521825234" data-title="Your Custom Team Patch">
+						<a class="quick-buy" href="/products/your-custom-team-patch"></a>
+					</li>
+					
+				
+					
+					
+					
+					<li class="product" data-img="//cdn.shopify.com/s/files/1/2258/7373/products/PlantMoreCroppedPatch_150x.jpg?v=1521819653" data-title="Buy Less Plant More Patch">
+						<a class="quick-buy" href="/products/buy-less-plant-more-patch"></a>
+					</li>
+					
+				
+					
+					
+					
+					<li class="product" data-img="//cdn.shopify.com/s/files/1/2258/7373/products/MSPatchBestCopy_150x.jpg?v=1522289617" data-title="MS Society Patch">
+						<a class="quick-buy" href="/products/ms-society-patch"></a>
+					</li>
+					
+				
+					
+					
+					
+					<li class="product" data-img="//cdn.shopify.com/s/files/1/2258/7373/products/heart-patch-set_150x.png?v=1518801443" data-title="Heart on Your Sleeve Patch Set">
+						<a class="quick-buy" href="/products/heart-patch-set"></a>
+					</li>
+					
+				
+					
+					
+					
+					<li class="product" data-img="//cdn.shopify.com/s/files/1/2258/7373/products/larkshead-logo_150x.png?v=1518711549" data-title="Larkshead Logo Patch">
+						<a class="quick-buy" href="/products/larkshead-logo-patch"></a>
+					</li>
+					
+				
+					
+					
+					
+					<li class="product" data-img="//cdn.shopify.com/s/files/1/2258/7373/products/larkshead-bird_150x.png?v=1518711707" data-title="Larkshead Bird Patch">
+						<a class="quick-buy" href="/products/larkshead-bird-patch"></a>
+					</li>
+					
+				
+					
+					
+					
+					<li class="product" data-img="//cdn.shopify.com/s/files/1/2258/7373/products/heart-on-your-sleeve_150x.png?v=1518711661" data-title="Heart on Your Sleeve Patch">
+						<a class="quick-buy" href="/products/heart-on-your-sleeve-patch"></a>
+					</li>
+					
+				
+					
+					
+					
+					<li class="product" data-img="//cdn.shopify.com/s/files/1/2258/7373/products/blue-waves_150x.png?v=1518711609" data-title="Blue Waves Patch">
+						<a class="quick-buy" href="/products/blue-waves-patch"></a>
+					</li>
+					
+				
+					
+					
+					
+					<li class="product" data-img="//cdn.shopify.com/s/files/1/2258/7373/products/deconstructed-heart_150x.png?v=1518711639" data-title="Deconstructed Heart Patch">
+						<a class="quick-buy" href="/products/deconstructed-heart-patch"></a>
+					</li>
+					
+				
+					
+					
+					
+					<li class="product" data-img="//cdn.shopify.com/s/files/1/2258/7373/products/the-climb_150x.png?v=1518711735" data-title="The    Climb                        Patch">
+						<a class="quick-buy" href="/products/the-climb-patch"></a>
+					</li>
+					
+				
+					
+					
+					
+					<li class="product" data-img="//cdn.shopify.com/s/files/1/2258/7373/products/white-bee-anything_150x.png?v=1518711758" data-title="White Bee Anything Patch">
+						<a class="quick-buy" href="/products/bee-anything-patch-white"></a>
+					</li>
+					
+				
+					
+					
+					
+					<li class="product" data-img="//cdn.shopify.com/s/files/1/2258/7373/products/black-bee-anything_150x.png?v=1518711587" data-title="Black Bee Anything Patch">
+						<a class="quick-buy" href="/products/bee-anything-patch-black"></a>
+					</li>
+					
+				
+			</ul>
+		</div>
+	</header>
+	<footer class="texture">
+		<h3><span style="color:#f9c606;">Not Your Style?</span> <a style="text-decoration:underline;" href="/pages/custom">Contact Us</a> for Custom Made Patches</h3>
+		<a class="button" href="/collections/patches">View All Patches</a>
+	</footer>
+</div>
+
+<div id="quick-buy-wrap">
+	<div class="overlay"></div>
+	<div class="content-wrapper">
+		<div class="close-button"></div>
+		<div class="content"></div>
+	</div>		
+</div>
+
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+		var count = 10,
+			length = jQuery('.upsell-accessories .product').length;
+		jQuery('.upsell-accessories .product').shuffle().pick(count).show().each( function(i) {
+			var $this = jQuery(this);
+			$this.children('a').html('<img src="' + $this.data('img') + '" alt="' + $this.data('title') + '" />');
+			if (!--count || i === (length - 1)) {
+				jQuery('.upsell-accessories .carousel ul').slick({
+					accessibility: false, 
+					arrows: true,
+					autoplay: true, 
+					autoplaySpeed: 4000,
+					slidesToShow: 5,
+					speed: 500,
+					prevArrow: '<span class="arrow prev"></span>',
+					nextArrow: '<span class="arrow next"></span>',
+					responsive: [
+						{
+							breakpoint: 900,
+							settings: {
+								slidesToShow: 3,
+							}
+						},
+				    ],
+				});
+			}
+		});
+	});
+</script>
+		
+	</div>
+</section>
+		
+		<footer id="bottom">
+	<div class="contain flex">
+		
+		<a class="logo" href="/">
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="200px" height="100px" viewBox="0 0 200 100" enable-background="new 0 0 200 100" xml:space="preserve">
+<g class="mark">
+	<polygon points="80.449,15.394 76.554,18.612 76.554,46.631 104.323,46.631 107.606,42.736 80.449,42.736 	"/>
+	<polygon points="99.166,0 95.271,3.218 95.27,25.247 89.986,30.556 89.986,7.575 86.091,10.76 86.091,37.202 86.091,37.225 
+		112.52,37.225 115.804,33.33 92.717,33.33 97.537,28.48 120.164,28.48 123.445,24.583 99.166,24.583 	"/>
+</g>
+<g class="name">
+	<path fill="#231F20" d="M57.358,90.576c2.577-1.207,3.791-5.047,3.791-7.516c0-2.253-0.907-4.257-2.441-5.445
+		c-1.471-1.158-3.098-1.564-5.132-1.564h-4.568c-0.039,0-0.075,0.014-0.103,0.041l-4.155,4.156v19.407h4.162v-7.76
+		c0-0.328,0.267-0.596,0.596-0.596h2.673c0.206,0,0.396,0.105,0.505,0.279l5.051,8.076h4.538l-5.164-8.228
+		C56.922,91.125,57.036,90.727,57.358,90.576 M53.074,87.794h-3.566c-0.329,0-0.596-0.268-0.596-0.597V80.15
+		c0-0.329,0.267-0.595,0.596-0.595h3.504c2.316,0,4.069,0.845,4.069,3.474C57.081,85.344,55.484,87.794,53.074,87.794"/>
+	<path fill="#231F20" d="M27.513,76.748l-8.048,22.907h4.162l1.549-4.613c0.085-0.251,0.309-0.418,0.562-0.418h7.666
+		c0.254,0,0.48,0.17,0.563,0.425l1.49,4.606h4.35L31.82,76.75c-0.147-0.421-0.525-0.699-0.95-0.699h-2.409
+		C28.038,76.05,27.66,76.328,27.513,76.748 M31.809,90.848h-4.5c-0.409,0-0.697-0.425-0.563-0.834l2.796-8.634h0.063l2.768,8.636
+		C32.504,90.425,32.217,90.848,31.809,90.848"/>
+	<path fill="#231F20" d="M4.162,95.398V76.195c0-0.129-0.156-0.194-0.248-0.103L0,80.006v19.053c0,0.329,0.267,0.597,0.596,0.597
+		h14.426v-3.661H4.758C4.429,95.995,4.162,95.727,4.162,95.398"/>
+	<path fill="#231F20" d="M78.041,85.796l8.864-9.746h-5.07l-10.171,11.65h-0.031V76.195c0-0.129-0.157-0.194-0.248-0.103
+		l-3.915,3.915v19.647h4.163v-6.77c0-0.154,0.059-0.303,0.167-0.414l2.646-2.745c0.271-0.28,0.734-0.229,0.937,0.104l6.013,9.825
+		h5.07L77.982,86.52C77.835,86.293,77.86,85.997,78.041,85.796"/>
+	<path fill="#231F20" d="M165.269,76.748l-8.049,22.907h4.162l1.55-4.613c0.084-0.251,0.31-0.418,0.561-0.418h7.667
+		c0.254,0,0.481,0.17,0.563,0.425l1.489,4.606h4.351l-7.986-22.905c-0.147-0.421-0.526-0.699-0.95-0.699h-2.409
+		C165.793,76.05,165.416,76.328,165.269,76.748 M169.564,90.848h-4.5c-0.409,0-0.696-0.425-0.563-0.834l2.796-8.634h0.062
+		l2.77,8.636C170.26,90.425,169.972,90.848,169.564,90.848"/>
+	<path fill="#231F20" d="M191.205,76.049h-4.802c-0.039,0-0.075,0.016-0.103,0.043l-3.795,3.794v19.769h8.731
+		c4.412,0,8.763-2.941,8.763-8.23v-7.238C200,79.21,196.057,76.049,191.205,76.049 M195.869,91.674c0,3.192-2.66,4.319-4.788,4.319
+		h-3.816c-0.329,0-0.598-0.266-0.598-0.596V80.307c0-0.329,0.269-0.596,0.598-0.596h3.66c2.628,0,4.944,1.533,4.944,4.225V91.674z"
+		/>
+	<path fill="#231F20" d="M126.208,80.007v7.331c0,0.328-0.267,0.596-0.597,0.596h-7.727c-0.328,0-0.597-0.268-0.597-0.596V75.861
+		l-4.161,4.162v19.632h4.161V92.19c0-0.329,0.269-0.594,0.597-0.594h7.727c0.33,0,0.597,0.265,0.597,0.594v7.465h4.162v-23.46
+		c0-0.129-0.155-0.194-0.247-0.103L126.208,80.007z"/>
+	<path fill="#231F20" d="M98.388,85.486c-1.752-0.488-3.254-1.073-3.254-2.7c0-2.082,1.752-3.091,3.567-3.091
+		c2.16,0,3.787,0.812,4.663,2.765l3.6-1.464c-1.001-3.384-4.382-4.946-8.105-4.946c-4.319,0-7.793,2.539-7.793,6.898
+		c0,8.949,12.174,4.85,12.174,10.25c0,2.148-2.128,3.06-4.381,3.06c-2.504,0-4.538-1.27-5.383-3.515l-3.755,1.529
+		c1.158,3.938,4.913,5.728,9.013,5.728c4.912,0,8.574-2.831,8.574-7.094C107.307,86.755,101.986,86.496,98.388,85.486"/>
+	<path fill="#231F20" d="M141.386,95.398v-3.389c0-0.329,0.267-0.595,0.596-0.595h8.854c0.328,0,0.596-0.268,0.596-0.596v-2.472
+		c0-0.328-0.268-0.595-0.596-0.595h-8.854c-0.329,0-0.596-0.267-0.596-0.595v-6.851c0-0.329,0.267-0.596,0.596-0.596h10.732v-3.662
+		h-11.253c-0.038,0-0.075,0.016-0.104,0.043l-4.135,4.015v19.549h15.617v-3.661h-10.858
+		C141.652,95.995,141.386,95.727,141.386,95.398"/>
+</g>
+</svg>
+
+		</a>
+		
+		<div>
+			<h4>Contact</h4>
+			<p>
+				<a href="mailto:contact@larkshead.com">contact@larkshead.com</a><br>
+				(484) 483-3451<br>
+				Philadelphia, PA
+			</p>
+		</div>
+		
+		<nav>
+			<h4>Info</h4>
+			<ul>
+				
+				<li >
+					<a href="/pages/custom">Custom Patches</a> 
+				</li>
+				
+				<li >
+					<a href="/pages/returns-exchanges">Return & Exchange Policy</a> 
+				</li>
+				
+				<li >
+					<a href="/pages/privacy">Privacy Policy</a> 
+				</li>
+				
+				<li >
+					<a href="/pages/terms">Terms of Service</a> 
+				</li>
+				
+			</ul>
+		</nav>
+		
+		<div>
+			<h4>Get The Latest</h4>
+			<!-- Begin MailChimp Signup Form -->
+<div class="form-wrapper newsletter-wrap">
+	<form action="//larkshead.us16.list-manage.com/subscribe/post-json?u=d56658ded27df0844180289ce&amp;id=b6c5182772&c=?" method="get" name="newsletter-form">
+	    <div class="input-wrapper email">
+			<input type="email" value="" name="EMAIL" required placeholder="Email">
+		</div>
+		<div class="input-wrapper submit">
+		    <input type="submit" value="Submit" name="submit">
+		</div>
+	</form>
+</div>
+<!-- End -->
+			<div class="social">
+				<a class="facebook" href="https://www.facebook.com/thelarkshead/" target="_blank"></a>
+				<a class="twitter" href="https://twitter.com/thelarkshead/" target="_blank"></a>
+				<a class="instagram" href="https://www.instagram.com/thelarkshead/" target="_blank"></a>
+			</div>
+		</div>
+					
+	</div>
+	<div class="contain sub-footer">
+		<div class="copyright">&copy; 2018 Larkshead. All Rights Reserved.</div>
+		<div class="metropolis"><a href="http://metropoliscreative.com" target="_blank">Website by Metropolis Creative</a></div>
+	</div>
+</footer>
+    
+	</div>
+    
+    <script src="//cdn.shopify.com/s/assets/themes_support/api.jquery-0ea851da22ae87c0290f4eeb24bc8b513ca182f3eb721d147c009ae0f5ce14f9.js" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/2258/7373/t/3/assets/main.js?3581195939427218665" type="text/javascript"></script>
+    
+    
+	
+</body>
+</html>

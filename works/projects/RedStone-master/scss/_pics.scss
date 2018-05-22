@@ -1,0 +1,25 @@
+.pics{
+    display: -ms-grid;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+}
+.pics .img{
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+.i1{
+    background-image: url('../images/insta6.jpg');
+}
+.i2{
+    background-image: url('../images/insta1.jpg');
+}
+.i3{
+    background-image: url('../images/insta2.jpg');
+}
+.i4{
+    background-image: url('../images/insta5.jpg');
+}
+.i5{
+    background-image: url('../images/insta3.jpg');
+}

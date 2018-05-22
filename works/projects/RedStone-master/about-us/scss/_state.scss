@@ -1,0 +1,46 @@
+// === nav btn === //
+.open{
+    z-index: 999999999;
+}
+.open span{
+    background-color: white;
+}
+.open .middle{
+    opacity: 0;
+}
+.open .dash1{
+    transform: rotateZ(45deg) translateX(7px)
+}
+.open .dash2{
+    transform: rotateZ(-45deg) translateX(7.5px)
+}
+// === logo === //
+.open-logo{
+    fill: white;
+    transition: z-index 0.8s ease;
+    z-index: 999999;
+    transition: fill 0.8s ease
+}
+// === side bar === //
+
+.showing{
+    left: 0;
+}
+
+
+// === slide === //
+.slick-slide img{
+    filter: grayscale(100%) !important;
+    max-width: 110px !important;
+}
+
+.slick-center img{
+    max-width: 160px !important;
+    filter: grayscale(0%) !important;
+}
+
+@media screen and (max-width:720px){
+    /*.slick-center{
+        max-width: 150px !important;
+    }*/
+}
