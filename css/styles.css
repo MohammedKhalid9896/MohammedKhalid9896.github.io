@@ -20,3 +20,29 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   background-repeat: no-repeat;
   background-position: center;
 }
+
+#info {
+    display: table;
+    margin: auto;
+    height: 100%;
+}
+
+#info .me {
+     color: white;
+     z-index: 9999;
+     margin: 15px 5px;
+     padding: 2px;
+    } 
+    
+    .icons {    
+        font-size: 2em;
+        color: black;
+        transition: all 2s;
+}
+    .icons:hover {
+         transform: rotate(-360deg);
+}
+        
+
+
+
