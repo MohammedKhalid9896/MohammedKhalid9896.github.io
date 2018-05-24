@@ -7,6 +7,7 @@ welcomeCanvas.style.position = 'absolute';
 welcomeCanvas.style.top = '520px';
 welcomeCanvas.style.left = '0px';
 welcomeCanvas.width = innerWidth;
+welcomeCanvas.style.opacity ='0.5';
 welcomeCanvas.height = 100;
 welcomeCanvas.style.display = 'block';
 
