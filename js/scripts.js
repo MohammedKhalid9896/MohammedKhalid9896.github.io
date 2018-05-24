@@ -4,7 +4,7 @@ welcomeCanvas.id = 'c';
 
 
 welcomeCanvas.style.position = 'absolute';
-welcomeCanvas.style.top = '550px';
+welcomeCanvas.style.top = '555px';
 welcomeCanvas.style.left = '0px';
 welcomeCanvas.width = innerWidth;
 welcomeCanvas.style.opacity ='1';
