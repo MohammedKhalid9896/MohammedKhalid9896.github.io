@@ -40,3 +40,10 @@ $(document).ready(function(){
         ]
     });
   });
+
+
+
+
+$(document).scroll(function(){
+   $("#top-nav").css("display","none"); 
+});

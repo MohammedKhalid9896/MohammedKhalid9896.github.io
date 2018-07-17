@@ -146,36 +146,6 @@ footer input:-moz-placeholder { /* Firefox 18- */
 
 
 
-  .footer-copyright {
-    background-color: black;
-    padding-top: 3px;
-    padding-bottom: 3px;
-    font-size: 12px;
-        
-    p {
-    margin: 10px;
-    color: #6a6a6a;    
-    display: inline-block;
-    margin-left: 130px;
-
-    }
-        
-    h6 {
-    text-align: right;
-    float: right;
-    clear: both;
-    margin: 10px;
-    color: #6a6a6a;  
-    margin-right: 132px;
-    }
-        
-    div {
-    height: 1px;
-    width: 80%;
-    margin: auto;
-    background-color: #6a6a6a;
-    }
-}
 
   @media only screen and (max-width:960px){
       .footer{

@@ -3,19 +3,9 @@ footer{
     color: white;
     box-sizing: border-box;
     padding-top: 5em;
-    font-family: sans-serif;
 }
-
-a {
-    text-decoration: none !important;
-    &:hover {
-        color: white;
-    }
-}
-
 footer a{
     color: white;
-    text-decoration: none;
 }
 .footer{
     width: 70%;
@@ -46,6 +36,37 @@ footer a{
 }
 .logo-footer span{
     color: $yellow
+}
+
+.footer-copyright {
+    background-color: black;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 12px;
+        
+    p {
+    margin: 10px;
+    color: #6a6a6a;    
+    display: inline-block;
+    margin-left: 130px;
+
+    }
+        
+    h6 {
+    text-align: right;
+    float: right;
+    clear: both;
+    margin: 10px;
+    color: #6a6a6a;  
+    margin-right: 132px;
+    }
+        
+    div {
+    height: 1px;
+    width: 80%;
+    margin: auto;
+    background-color: #6a6a6a;
+    }
 }
 
 .footer h4{
@@ -96,7 +117,6 @@ footer input:-moz-placeholder { /* Firefox 18- */
       display: block;
       width: 40px;
       height: 40px;
-      text-decoration: none;
       background-color: $black;
       margin: 0 0.3em;
       display: flex;
@@ -106,24 +126,10 @@ footer input:-moz-placeholder { /* Firefox 18- */
       font-size: 1.1em;
       transition: $transition
   }
-    
-    .hvr {
-    transition: $transition;
-    &:hover {
-        .fa-angle-right {
-            margin-left: 15px;
-        }
-    }
-    }    
-    
-.fa-angle-right {
-    color:  #f9c606;
-    margin-left: 8px;
-    position: relative;
-    transition: $transition;
-}
-    
-
+  .social a:hover{
+      transform: translateY(-5px);
+      color: $yellow;
+  }
   .arrow1{
       display: flex;
       justify-content: center;
@@ -135,36 +141,48 @@ footer input:-moz-placeholder { /* Firefox 18- */
       height: 55px;
       position: absolute;
       right: 0;
-      top: 17%;
+      top: 18%;
   }
 
-  .footer-copyright {
-    background-color: black;
-    padding-top: 3px;
-    padding-bottom: 3px;
-    font-size: 12px;
-        
-    p {
-    margin: 10px;
-    color: #6a6a6a;    
-    display: inline-block;
-    margin-left: 130px;
 
-    }
+
+
+  @media only screen and (max-width:960px){
+      .footer{
+          grid-template-columns: 1fr;
+      }
+                .footer-copyright {  
+              text-align: center;
+        p {
+        margin: 10px;
+        color: #6a6a6a;        
+        text-align: center;    
+    }    
         
     h6 {
-    text-align: right;
-    float: right;
-    clear: both;
-    margin: 10px;
-    color: #6a6a6a;  
-    margin-right: 132px;
+        display: none;
     }
-        
-    div {
-    height: 1px;
-    width: 80%;
-    margin: auto;
-    background-color: #6a6a6a;
+}
+  }
+
+.hvr {
+    a {
+        text-decoration: none;
+        color: white
+    }
+}
+
+.arrow{
+    color: $yellow-arrow;
+    transition: all 0.3s ease
+}
+ a:hover .arrow{
+    margin-left: 5px
+}
+
+.footer-item {
+    a {
+        text-decoration: none;
+        color: white;
     }
 }
