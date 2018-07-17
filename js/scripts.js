@@ -4,9 +4,10 @@ welcomeCanvas.id = 'c';
 
 
 welcomeCanvas.style.position = 'absolute';
-welcomeCanvas.style.top = '500px';
+welcomeCanvas.style.top = '555px';
 welcomeCanvas.style.left = '0px';
 welcomeCanvas.width = innerWidth;
+welcomeCanvas.style.opacity ='1';
 welcomeCanvas.height = 100;
 welcomeCanvas.style.display = 'block';
 
@@ -42,4 +43,22 @@ function animate() {
 
 animate();
 
+
+function onReady(callback) {
+  var intervalId = window.setInterval(function() {
+    if (document.getElementsByTagName('body')[0] !== undefined) {
+      window.clearInterval(intervalId);
+      callback.call(this);
+    }
+  }, 2000);
+}
+
+function setVisible(selector, visible) {
+  document.querySelector(selector).style.display = visible ? 'block' : 'none';
+}
+
+onReady(function() {
+  setVisible('body', true);
+  setVisible('#loading', false);
+});
 
