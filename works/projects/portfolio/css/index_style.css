@@ -167,6 +167,7 @@ lg-3 {
 
 #about {
     background-image: url(../images/lion3.jpg);
+    background-attachment: fixed;
 }
 
 
@@ -227,14 +228,14 @@ lg-3 {
 #works .train {
     position: relative;
     animation-name: move-train;
-    animation-duration: 10s;
+    animation-duration: 7s;
     animation-fill-mode: forwards;
     animation-iteration-count: 8;
 }
 
 @keyframes  move-train{
     0%   { left:0px; top:0px;}
-    50%  { left:1500px; top:0px;}
+    50%  { left:228%; top:0px;}
     100% { transform: rotatey(180deg); left:-150%; top:0px;}
 }
 
