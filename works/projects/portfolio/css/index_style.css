@@ -224,6 +224,12 @@ lg-3 {
     width: 50%;
 }
 
+@media screen and (max-width: 995px) {
+#works .train img {
+    width: 40%;
+}
+}
+
 
 #works .train {
     position: relative;
@@ -241,7 +247,7 @@ lg-3 {
   @media screen and (max-width: 995px) {
     @keyframes  move-train{
     0%   { left:0px; top:0px;}
-    50%  { left:100%; top:0px;}
+    50%  { left:65%; top:0px;}
     100% { transform: rotatey(180deg); left:-150%; top:0px;}
 }
 }
