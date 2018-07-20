@@ -366,3 +366,30 @@ body {
     opacity: 1;
 }
 
+
+
+#loading {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  background-image: url("../images/Wedges-3.2s-124px.apng");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#menu .meal p {
+    color: gray;
+    padding: 10px;
+    height: 60px;
+}
+
+#menu .meal h1 {
+    padding: 10px;
+    font-size: 2em;
+}
+
