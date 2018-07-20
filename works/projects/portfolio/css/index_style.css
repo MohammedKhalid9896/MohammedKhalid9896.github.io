@@ -247,7 +247,7 @@ lg-3 {
   @media screen and (max-width: 995px) {
     @keyframes  move-train{
     0%   { left:0px; top:0px;}
-    50%  { left:65%; top:0px;}
+    50%  { left:62%; top:0px;}
     100% { transform: rotatey(180deg); left:-150%; top:0px;}
 }
 }
