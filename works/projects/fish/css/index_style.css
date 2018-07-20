@@ -130,6 +130,13 @@ body {
 
 #menu .meal p {
     color: gray;
+    padding: 10px;
+    height: 60px;
+}
+
+#menu .meal h1 {
+    padding: 10px;
+    font-size: 2em;
 }
 
 
@@ -382,14 +389,5 @@ body {
   background-position: center;
 }
 
-#menu .meal p {
-    color: gray;
-    padding: 10px;
-    height: 60px;
-}
 
-#menu .meal h1 {
-    padding: 10px;
-    font-size: 2em;
-}
 
